@@ -117,7 +117,7 @@ Bu Repo EchoPhish Tooluna Kendi Yapmış Olduğum Mail Spoofer Toolumun Entegre 
 Ana Spoof Toolu Şuanda Betada Şuan Sadece 1 Saatlik Bir Süreden Az Bir Zamanda Kodlanmış Bir Tool Var Elimde Bu Haliyle Yayımlamak İstemiyorm Belki İleride Bir Aplikasyon Veya Site Üzerinden Arayüzlü Şekilde Yayımlarım Bunu Yaparsam Tabiki Sadece Script Şeklinde Bir İde Ortamında Çalışacak Şekildede Yayımlıyacam.
 
 -Şuanlık Betasını Tg Kanalımda Paylaştım
-[Telegram]https://t.me/+zgqfH4uwo7xlOTg0
+[Telegram](https://t.me/+zgqfH4uwo7xlOTg0)
 
 ## Sorumluluk Red Beyanı 
 
