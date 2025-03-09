@@ -119,4 +119,4 @@ Ana Spoof Toolu Şuanda Betada Şuan Sadece 1 Saatlik Bir Süreden Az Bir Zamand
 
 ## Red Beyanı 
 
-Bu Tool Kullanılarak Yapılan Tüm Herşeyden Kullanıcı Sorunludur Bu Tool Sadece Eğitim İçin Kullanılmak Üzere Geliştirildi Bu Tool İle Yapılan Her İşlemden Kullanıcı Sorumludur.
+Bu Tool Kullanılarak Yapılan Tüm Herşeyden Kullanıcı Sorumludur Bu Tool Sadece Eğitim İçin Kullanılmak Üzere Geliştirildi. Bu Tool İle Yapılan Her İşlemden Kullanıcı Sorumludur.
