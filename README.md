@@ -98,12 +98,25 @@ Bu Repo EchoPhish Tooluna Kendi Yapmış Olduğum Mail Spoofer Toolumun Entegre 
 - **İkinci Yol**
 
 
-- **1**Arama Kısmına Daha Az Güvenli Erişim Yazıp Erişime İzin Verin Eğer Çıkmazsa Güvenlik Sekmesinde Bulabilirsiniz.
+- **1**-Arama Kısmına Daha Az Güvenli Erişim Yazıp Erişime İzin Verin Eğer Çıkmazsa Güvenlik Sekmesinde Bulabilirsiniz.
 
-- **2**Smtp Port Ve Smtp Server Kısımları Aynı Olucak.
+- **2**-Smtp Port Ve Smtp Server Kısımları Aynı Olucak.
 
-- **3**From Adressde Aynı Olucak.
+- **3**-From Adressde Aynı Olucak.
 
-- **4**Password Kendi Mail Şifreniz Olucak.
+- **4**-Password Kendi Mail Şifreniz Olucak.
 
-- **5**Mail Şifreniz Güvendedir Çünkü Config Dosyası Sadece Sizin Cihazınızda Yer Alır Ve Rat Yemeden Dışardan Erişilmesi Çok Zordurki Zaten Cihazınıza Erişildiyse Muhtemelen Mailiniz Çoktan Ele Geçirilmiştir
+- **5**-Mail Şifreniz Güvendedir Çünkü Config Dosyası Sadece Sizin Cihazınızda Yer Alır Ve Rat Yemeden Dışardan Erişilmesi Çok Zordurki Zaten Cihazınıza Erişildiyse Muhtemelen Mailiniz Çoktan Ele Geçirilmiştir
+
+
+
+
+
+## TOOL HAKKINDA 
+
+Ana Spoof Toolu Şuanda Betada Şuan Sadece 1 Saatlik Bir Süreden Az Bir Zamanda Kodlanmış Bir Tool Var Elimde Bu Haliyle Yayımlamak İstemiyorm Belki İleride Bir Aplikasyon Veya Site Üzerinden Arayüzlü Şekilde Yayımlarım Bunu Yaparsam Tabiki Sadece Script Şeklinde Bir İde Ortamında Çalışacak Şekildede Yayımlıyacam
+
+
+## Red Beyanı 
+
+Bu Tool Kullanılarak Yapılan Tüm Herşeyden Kullanıcı Sorunludur Bu Tool Sadece Eğitim İçin Kullanılmak Üzere Geliştirildi Bu Tool İle Yapılan Her İşlemden Kullanıcı Sorumludur.
