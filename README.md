@@ -69,19 +69,19 @@ Bu Repo EchoPhish Tooluna Kendi Yapmış Olduğum Mail Spoofer Toolumun Entegre 
 -**password:** Bu Kısıma Smtp Şifrenizi Girmeniz Lazım Eğer Gmail Kullanıyorsanız Gmail Tarafından Hizmet Oluşturulduğunda Verilen Şifreyi girmeniz gerekir.
 
 
-##Gmail SMTP Kullanma
+## Gmail SMTP Kullanma
 
-** Birinci Yol 
-1-Öncelikle Gmail Uygulamasına Girip 2 Faktörlü Doğrulamayı Açmanız Lazım Güvenlik Sekmesinden Açabilirsiniz
-2-Gmail Ayarlarında Arama Kısmına Uygulama Şifresi Yazıp Yeni Uygulama Oluşturun Ve Verilen Şifreyi Kaydedin
-3-Configde From Adress Kısmına Sifreyi Oluşturduğunuz Maili Girin
-4-Password Kısmında Verilen Şifreyi Girin
-5-Smtp Port Kısmına 587 (SSL Kullanıcaksanız 465)
-6-Smtp Server Kısmında smtp.gmail.com girin
+-**Birinci Yol**
+**1-Öncelikle Gmail Uygulamasına Girip 2 Faktörlü Doğrulamayı Açmanız Lazım Güvenlik Sekmesinden Açabilirsiniz**
+**2-Gmail Ayarlarında Arama Kısmına Uygulama Şifresi Yazıp Yeni Uygulama Oluşturun Ve Verilen Şifreyi Kaydedin**
+**3-Configde From Adress Kısmına Sifreyi Oluşturduğunuz Maili Girin**
+**4-Password Kısmında Verilen Şifreyi Girin**
+**5-Smtp Port Kısmına 587 (SSL Kullanıcaksanız 465)**
+**6-Smtp Server Kısmında smtp.gmail.com girin**
 
-** İkinci Yol
-1-Arama Kısmına Daha Az Güvenli Erişim Yazıp Erişime İzin Verin Eğer Çıkmazsa Güvenlik Sekmesinde Bulabilirsiniz
-2-Smtp Port Ve Smtp Server Kısımları Aynı Olucak
-3-From Adressde Aynı Olucak 
-4-Password Kendi Mail Şifreniz Olucak 
-5-Mail Şifreniz Güvendedir Çünkü Config Dosyası Sadece Sizin Cihazınızda Yer Alır Ve Rat Yemeden Dışardan Erişilmesi Çok Zordurki Zaten Cihazınıza Erişildiyse Muhtemelen Mailiniz Çoktan Ele Geçirilmiştir
+-**İkinci Yol**
+**1-Arama Kısmına Daha Az Güvenli Erişim Yazıp Erişime İzin Verin Eğer Çıkmazsa Güvenlik Sekmesinde Bulabilirsiniz**
+**2-Smtp Port Ve Smtp Server Kısımları Aynı Olucak**
+**3-From Adressde Aynı Olucak**
+**4-Password Kendi Mail Şifreniz Olucak**
+**5-Mail Şifreniz Güvendedir Çünkü Config Dosyası Sadece Sizin Cihazınızda Yer Alır Ve Rat Yemeden Dışardan Erişilmesi Çok Zordurki Zaten Cihazınıza Erişildiyse Muhtemelen Mailiniz Çoktan Ele Geçirilmiştir**
