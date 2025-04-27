@@ -93,7 +93,7 @@ Bu Repo EchoPhish Tooluna Kendi Yapmış Olduğum Mail Spoofer Toolumun Entegre 
 - **6**-Smtp Server Kısmında smtp.gmail.com girin.
 
 
-- **İkinci Yol**
+ **İkinci Yol**
 
 
 - **1**-Arama Kısmına Daha Az Güvenli Erişim Yazıp Erişime İzin Verin Eğer Çıkmazsa Güvenlik Sekmesinde Bulabilirsiniz.
